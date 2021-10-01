@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+<h1>Обзор Казино Эльдорадо</h1>
 
-You can use the [editor on GitHub](https://github.com/Eldorado-Casino-Registraciya/Eldorado-Registracia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Эльдорадо Казино – современное онлайн-казино. Игровой клуб был основан в 2017 году и с тех пор пользуется большой популярностью среди всех активных игроков. Официальный сайт <a href="https://is.gd/CasinoEldorado">Eldorado-Casino</a> Eldorado-Casino насчитывает огромную армию игроков со всего мира в особенности из таких стран как: Россия,Украина,Казахстан,Беларусь и остальных стран СНГ, которые не могут представить свою жизнь без азартных развлечений и ярких эмоций. Игроки заходят в Эльдорадо, чтобы получить заряд положительных эмоций, получить выброс адреналина и испытать собственную удачу.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![GykbbA6V](https://user-images.githubusercontent.com/91567036/135693386-47905a2b-9c11-4166-887f-b47a64f4217c.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1>Регистрация и вход</h1>
 
-```markdown
-Syntax highlighted code block
+Чтобы начать играть на деньги необходимо зарегистрироваться на сайте. Пройти простейшую процедуру, которая занимает не более двух минут. Вам предстоит заполнить регистрационную анкету и подтвердить свою почту, пройдя по ссылке которая придет к Вам,после регистрации.
+Сайт сделан таким образом,что даже новичку,будет легко разобраться. Всё доступно и понятно.  
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<h1>Зеркало казино Эльдорадо</h1>
 
-**Bold** and _Italic_ and `Code` text
+У нас вы всегда можете найти <a href="https://is.gd/CasinoEldorado">Рабочее Зеркало</a>,в случае блокировки. И перейти на официальный сайт Эльдорадо для продолжения увлекательной игры в различные,красочные слоты!
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h1>Развлечения</h1>
 
-### Jekyll Themes
+Игровой ассортимент насчитывает более 350 слотов, также на портале есть рулетка, покер, блэкджек, баккарат и скретч-карты. 
+Наиболее популярные игры среди игроков: Book of Ra, Lacky Lady`s Charm, Reactoonz и Book of Dead. Игры представленные в клубе Эльдорадо можно найти во вкладке «Все Игры», а во вкладку «Популярные» попадают игровые-автоматы, отличившиеся наибольшей активностью всех игроков.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eldorado-Casino-Registraciya/Eldorado-Registracia/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h1>Служба Поддержки</h1>
+
+Служба технической поддержки работает 24/7 круглый год! В случае вопросов и каких то непонятных ситуаций Вам с радостью помогут и ответят на все вопросы связанные с казино Эльдорадо.
+
+<h1>Пополнение счёта и вывод средств в Eldorado</h1>
+
+Для игры в казино на деньги Вам необходимо пополнить свой счёт. Сделать это можно с помощью таких платёжных методов как: Qiwi,Piastrix,Monetix,Банковские Карты и Криптовалюты такие как Bitcoin,Litecoin,Dash итд
+Вывод осуществляется на тот же платёжный метод с которой вы совершали свой депозит. 
+Эльдорадо выводит от 10 минут до 24часов.
+
+<h1>Подытожим</h1>
+
+В Казино Эльдорадо, Вы сможете насладиться по настоящему яркими эмоциями и отвлечься от суеты и забот.
+Выбирайте только проверенные сайты для игры - Эльдорадо - то,что Вам надо!
+
+<a href="https://is.gd/CasinoEldorado">Регистрация в Казино Эльдорадо</a>
